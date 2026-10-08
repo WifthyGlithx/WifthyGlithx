@@ -20,7 +20,7 @@ My focus is on transforming data into clear, actionable insights through data an
 When I'm not working with data, I enjoy listening to good music, watching football, learning from other analyst around the globe. And most importantly, I love the moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://WifthyGlithx.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
